@@ -20,9 +20,7 @@ module.exports = {
       resolve: `gatsby-source-wordpress-experimental`,
       options: {
         // allows a fallback url if WPGRAPHQL_URL is not set in the env, this may be a local or remote WP instance.
-        url:
-          process.env.GATSBY_WPGRAPHQL_URL ||
-          `http://the-tint-bros.local/graphql`,
+        url: process.env.GATSBY_WPGRAPHQL_URL,
         schema: {
           // Prefixes all WP Types with "Wp" so "Post and allPost" become "WpPost and allWpPost".
           typePrefix: `Wp`,
