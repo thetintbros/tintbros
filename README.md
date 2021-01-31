@@ -7,7 +7,7 @@
 </div>
 
 <div align="center">
-  <strong>A <a href="https://www.gatsbyjs.org/">Gatsby</a> starter styled using <a href="https://tailwindcss.com/">Tailwind CSS</a>, a utility-first CSS framework.</strong><br />
+  <strong>A <a href="https://www.gatsbyjs.org/">Gatsbyjs</a> starter styled using <a href="https://tailwindcss.com/">Tailwind CSS</a>, a utility-first CSS framework.</strong><br />
   Uses Tailwind CSS' built-in purge option to remove unused CSS.<br />
   Illustrations by <a href="https://undraw.co/">unDraw</a>.
   <br />
